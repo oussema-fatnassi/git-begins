@@ -1,0 +1,14 @@
+Clone a depository
+    --> Create a depository on Github
+    --> On Github click code and copy the url of the depository 
+    --> On terminal --> git clone "the url of the depository"
+
+Push
+    --> Add --> we add the files in the selected directory
+            --> git add + name of the files
+            --> if we have more files --> git add file1 /file2 /file3 /
+
+    --> Commit --> git commit
+
+    --> Push --> to push into our remote repository all the files/changes done in local 
+             --> git push
