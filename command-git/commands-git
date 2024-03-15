@@ -12,3 +12,6 @@ Push
 
     --> Push --> to push into our remote repository all the files/changes done in local 
              --> git push
+
+Pull
+    --> git pull --> we use this command to update our local branch with the remote branch
