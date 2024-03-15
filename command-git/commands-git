@@ -8,7 +8,7 @@ Push
             --> git add + name of the files
             --> if we have more files --> git add file1 /file2 /file3 /
 
-    --> Commit --> git commit
+    --> Commit --> git commit -m "Message to add to the commit"
 
     --> Push --> to push into our remote repository all the files/changes done in local 
              --> git push
